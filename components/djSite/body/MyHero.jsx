@@ -14,7 +14,9 @@ function MyHero(props) {
                         <button className="btn btn-primary">Get Started</button>
                     </div>
                 </div>
+
             </div>
+
         </>
     );
 }
