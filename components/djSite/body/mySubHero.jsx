@@ -1,6 +1,7 @@
 import React from 'react';
+import MyAnotherSub from "./myAnotherSub.jsx";
 
-function MySubHero(props) {
+function MySubHero() {
     return (
         <>
             <article className=" mt-10 flex flex-col gap-4 justify-center items-center">
@@ -54,6 +55,7 @@ function MySubHero(props) {
 
                     </div>
                 </div>
+                <MyAnotherSub/>
             </article>
 
         </>

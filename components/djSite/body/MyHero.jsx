@@ -1,6 +1,6 @@
 import React from 'react';
 
-function MyHero(props) {
+function MyHero() {
     return (
         <>
             <div className="hero bg-base-200 min-h-screen" style={{ backgroundImage: "url('/myband1.jpg')" }}>
